@@ -1,0 +1,8 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/athlete/training": "pages/athlete/training.js",
+  "/athlete/academies": "pages/athlete/academies.js",
+  "/athlete/tournaments": "pages/athlete/tournaments.js"
+}
